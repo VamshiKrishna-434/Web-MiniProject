@@ -1,0 +1,41 @@
+.body{
+    background-image: url(bgin.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.body1 {
+    background-image: url(bg4.avif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: black;
+}
+.h1{
+    
+    font-size: 30px;
+    font-variant: inherit;
+    text-align: center;
+}
+.table2{
+    table-layout: auto;
+    column-gap: 100px;
+}
+.div{
+    
+    margin-left: 450px;
+}
+.b{
+    background-image: url(abg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: rgb(96, 187, 155);
+}
+.p{
+    color: aliceblue;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: x-large;
+    align-items: normal;
+}
